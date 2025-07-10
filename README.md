@@ -37,18 +37,18 @@
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Project </h2>
 <p>
 1) 실전 프로젝트 <b>AI기반 개발직군 실전 면접 리허설 서비스</b>
-   - Back-End 
-     > Naver-Cloud, docker 기반 https 배포 
-     > MySQL Database 저장 로그 구현 및 데이터 처리 
-     > OAuth2 로그인 API 구현
-     > REST API 설계 및 구현
+   - Back-End <br>
+     > Naver-Cloud, docker 기반 https 배포 <br>
+     > MySQL Database 저장 로그 구현 및 데이터 처리 <br>
+     > OAuth2 로그인 API 구현<br>
+     > REST API 설계 및 구현<br>
    - AI 
-     > Opanai + RAG 기반 LLM 모델 모의면접 질문 및 답변 로직 구현 
-     > 직무별 면접 질문 & 공통 질문 데이터 전처리  
+     > Opanai + RAG 기반 LLM 모델 모의면접 질문 및 답변 로직 구현 <br>
+     > 직무별 면접 질문 & 공통 질문 데이터 전처리  <br>
 </p>
 <p>
 2) 핵심 프로젝트 <b>코사인 유사도 알고리즘 기반 OTT 추천 커뮤니티</b>
-    - Back-End
+    - Back-End<br>
       > (수정중)
     
 </p>
