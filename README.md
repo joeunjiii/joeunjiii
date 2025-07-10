@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20JOEUNJI%20README!%20)
 
+<div align="center">안녕하세요 ! 다양한 관점에서 문제를 분석하고, 적극적인 소통으로 해결책을 제시하는</div>
+<div align="center">조은지입니다😄</div>
+
 
 # 기술 스택 
 <p>
