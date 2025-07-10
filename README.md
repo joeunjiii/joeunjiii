@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20JOEUNJI%20README!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20JOEUNJI%20README!%20:relaxed:)
+
+
