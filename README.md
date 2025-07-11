@@ -36,7 +36,7 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Project </h2>
 <p>
-1) 실전 프로젝트 <b>AI기반 개발직군 실전 면접 리허설 서비스</b>
+1) 실전 프로젝트 <b>AI기반 개발직군 실전 면접 리허설 서비스</b><br>
    - Back-End <br>
     > Naver-Cloud, docker 기반 https 배포 <br>
     > MySQL Database 저장 로그 구현 및 데이터 처리 <br>
