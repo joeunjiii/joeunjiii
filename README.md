@@ -56,14 +56,12 @@
 ## 🧑‍💻 Contact Me
 
 <p>
-  <a href="mailto:ej960224@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://blog.naver.com/l0_y0k0"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a>
   <a href="http://carnation-ruby-2f7.notion.site/JO-EUNJI-2407e4852b1f802a8970f8effa779314"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
 
   ### 📪 E-mail
-  joeunjii@navercom
-  
-  ej960224@gmail.com
+- [joeunjii@naver.com](mailto:joeunjii@naver.com)  
+- [ej960224@gmail.com](mailto:ej960224@gmail.com)
 
  
   
