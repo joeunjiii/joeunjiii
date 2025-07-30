@@ -33,10 +33,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact&bg_color=60,9ab2f9,ffffff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-<p>
-2) 핵심 프로젝트 <b>코사인 유사도 알고리즘 기반 OTT 추천 커뮤니티</b><br>
-    - Back-End<br>
-    
-</p>
     
     
