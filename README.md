@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
 </p>
 
-### 🧠 AI & Data
+### 🧠 AI & Data 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SentenceTransformers-5E60CE?style=flat-square&logo=OpenAI&logoColor=white" />
