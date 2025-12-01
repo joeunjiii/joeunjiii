@@ -73,14 +73,3 @@
   </a>
 
 </div>
-
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joeunjiii&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact&theme=radical" />
-</p>
