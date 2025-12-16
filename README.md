@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h2>My Stacks</h2>
+<h2>🧰My Stacks</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<h2>Languages in My Repos</h2>
+<h2>📊Languages in My Repos</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact" />
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<h2>Contact Me</h2>
+<h2>📫Contact Me</h2>
 
 <p>
   <a href="mailto:joeunjii@naver.com">
