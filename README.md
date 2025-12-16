@@ -36,6 +36,9 @@
 ---
 
 ## Contact Me
-- **E-mail (Naver)**: joeunjii@naver.com  
-- **E-mail (Gmail)**: ej960224@gmail.com  
-- **Portfolio (Notion)**: http://carnation-ruby-2f7.notion.site/JO-EUNJI-2407e4852b1f802a8970f8effa779314
+<p>
+  <a href="http://carnation-ruby-2f7.notion.site/JO-EUNJI-2407e4852b1f802a8970f8effa779314">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /> </a> 
+  <a href="mailto:joeunjii@naver.com"> 
+    <img src="https://img.shields.io/badge/Email(Naver)-03C75A?style=flat-square&logo=naver&logoColor=white" /> </a> 
+  <a href="mailto:ej960224@gmail.com"> <img src="https://img.shields.io/badge/Email(Gmail)-EA4335?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
