@@ -31,9 +31,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact" />
 
-</div>
-
----
 
 ## Contact Me
 <p>
@@ -42,3 +39,6 @@
   <a href="mailto:joeunjii@naver.com"> 
     <img src="https://img.shields.io/badge/Email(Naver)-03C75A?style=flat-square&logo=naver&logoColor=white" /> </a> 
   <a href="mailto:ej960224@gmail.com"> <img src="https://img.shields.io/badge/Email(Gmail)-EA4335?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+
+</div>
+
