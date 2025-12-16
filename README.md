@@ -31,8 +31,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact" />
 
-<p><sub>See pinned repositories below for featured projects.</sub></p>
-
 </div>
 
 ---
