@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 <div align="center">
   
 ## My Stacks
