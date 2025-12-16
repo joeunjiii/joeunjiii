@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=joeunji's Github&fontSize=90&fontColor=ffffff&color=0:0F172A,100:334155&stroke=0B1220&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=joeunji'sGithub&fontSize=90&fontColor=ffffff&color=0:0F172A,100:334155&stroke=0B1220&strokeWidth=2" />
 </h1> 
 
 </div>
