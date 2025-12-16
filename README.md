@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Jo%20Eunji-6DB33F?style=for-the-badge&logo=github&logoColor=white" />
+<h1>
+  <span style="color:#C86B7B;">Jo Eunji</span>
+</h1>
 
 <p><b>Backend / AI Engineer (Junior)</b></p>
+
+</div>
+
+---
+
+<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -15,26 +23,21 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact" />
 
 <p><sub>See pinned repositories below for featured projects.</sub></p>
 
-<br/>
-
-<b>CONTACT ME</b>
-<p>
-  <a href="https://blog.naver.com/l0_y0k0">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white" />
-  </a>
-  <a href="http://carnation-ruby-2f7.notion.site/JO-EUNJI-2407e4852b1f802a8970f8effa779314">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
-  </a>
-  <a href="mailto:joeunjii@naver.com">
-    <img src="https://img.shields.io/badge/Email(Naver)-03C75A?style=flat-square&logo=naver&logoColor=white" />
-  </a>
-  <a href="mailto:ej960224@gmail.com">
-    <img src="https://img.shields.io/badge/Email(Gmail)-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 </div>
+
+---
+
+## Contact Me
+- **E-mail (Naver)**: joeunjii@naver.com  
+- **E-mail (Gmail)**: ej960224@gmail.com  
+- **Portfolio (Notion)**: http://carnation-ruby-2f7.notion.site/JO-EUNJI-2407e4852b1f802a8970f8effa779314
