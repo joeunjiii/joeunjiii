@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="color:#C86B7B;">Jo Eunji</span>
+  <<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=joeunji&fontSize=90&fontColor=ffffff&color=0:C86B7B,100:FAD0C4&stroke=C86B7B&strokeWidth=2" />
 </h1>
 
 <p><b>Backend / AI Engineer (Junior)</b></p>
