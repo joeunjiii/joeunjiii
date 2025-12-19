@@ -39,7 +39,7 @@
 
 <p>
   <a href="mailto:joeunjii@naver.com">
-    <img src="https://img.shields.io/badge/Email(Naver)-joeunjii%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email(Naver)-jo_eunjii%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <br>
   <a href="mailto:ej960224@gmail.com">
