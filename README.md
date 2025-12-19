@@ -38,10 +38,6 @@
 <h2>📫Contact Me</h2>
 
 <p>
-  <a href="mailto:joeunjii@naver.com">
-    <img src="https://img.shields.io/badge/Email(Naver)-jo_eunjii%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-  <br>
   <a href="mailto:ej960224@gmail.com">
     <img src="https://img.shields.io/badge/Email(Gmail)-ej960224%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
