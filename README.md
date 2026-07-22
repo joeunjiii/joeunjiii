@@ -26,15 +26,6 @@
 
 <div align="center">
 
-<h2>📊Languages in My Repos</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunjiii&layout=compact" />
-
-</div>
-
-
-<div align="center">
-
 <h2>📫Contact Me</h2>
 
 <p>
