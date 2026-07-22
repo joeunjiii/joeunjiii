@@ -35,4 +35,15 @@
 </p>
 
 </div>
+
+<div align="center">
+<h2>구경하세여 내 반려동물</h2>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=joeunjiii&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/joeunjiii"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
  
